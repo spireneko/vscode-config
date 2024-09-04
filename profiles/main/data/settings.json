@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Gruvbox Light Soft",
+    "git.openRepositoryInParentFolders": "always",
+    "git.autofetch": true,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 15,
+    "workbench.sideBar.location": "right"
+}
